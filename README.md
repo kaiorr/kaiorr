@@ -1,3 +1,6 @@
+<p align="center" style="background-color:#FFF">
+  <img src="./assets/logo-profile.png" alt="hero Dev">
+</p>
 
 # Kaio Ribeiro 🚀 
 
