@@ -1,6 +1,6 @@
 
 <h1 align="center" style="background-color:#FFF">
-  <img src="kaiorr/blob/master/assets/logo-profile.png" alt="hero Dev">
+  <img src="kaiorr/kaiorr/blob/master/logo-profile.png" alt="hero Dev">
 </h1>
 
 
