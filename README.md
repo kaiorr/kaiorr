@@ -21,7 +21,7 @@
 - 🕵 Trabalhando como analista de plataforma web Totvs
 - 💚 Techs: Linux 🐧 Javascript com Typescript implementado com o combo (React, React-Native, Nodejs) with 🐳 docker  with 🐘 sempre robusto e bem aplicado PHP
 - ♻️ Processo de transição de carreira 
-- 🎓 Estudando sobre plataformar CMS com Wordpress Mysql e também Headless CMS com Strapi e Gatsby com GraphQL
+- 🎓 Estudando sobre plataforma CMS com Wordpress Mysql e também Headless CMS com Strapi e Gatsby com GraphQL, ferramentas extremamente poderosas.
 
 ----
 
