@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-<p align="center" style="background-color:#FFF">
-  <img src="kaiorr/blob/master/assets/logo-profile.png" alt="hero Dev">
-</p>
-=======
+
 <h1 align="center" style="background-color:#FFF">
-  <img src="assets/logo-profile.png" alt="hero Dev">
+  <img src="kaiorr/blob/master/assets/logo-profile.png" alt="hero Dev">
 </h1>
->>>>>>> d640b0867f6cbccda2993a70f7c6a78983835bd0
+
 
 # Kaio Ribeiro 🚀 
 
