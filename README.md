@@ -1,10 +1,4 @@
-
-<h1 align="center" style="background-color:#FFF">
-  <img src="kaiorr/kaiorr/blob/master/logo-profile.png" alt="hero Dev">
-</h1>
-
-
-# Kaio Ribeiro 🚀 
+# Kaio Ribeiro 🚀 🦸‍
 
 <h1 align="center">
 
