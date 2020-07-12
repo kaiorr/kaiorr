@@ -1,7 +1,5 @@
 
-<h1 align="center" style="background-color:#FFF">
-  <img src="https://drive.google.com/uc?export=view&id=1QjHnVOCVA4U2b5fJwaDfBf-uugqsF6GO" alt="heroDev">
-</h1>
+<h1 align="center" style="font-size: 40px">🦸‍♂️{Dev}</h1>
 
 
 <h1 align="center"> Kaio Ribeiro 💻</h1> 
