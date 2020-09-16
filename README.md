@@ -11,5 +11,6 @@
 - 🕵 Trabalhando como analista de plataforma web Totvs
 - 💚 Techs: Linux 🐧 Javascript com Typescript implementado com o combo (React, React-Native, Nodejs) with 🐳 docker  with 🐘 sempre robusto e bem aplicado PHP
 - 🎓 Estudando sobre plataforma Headless CMS com Strapi e Gatsby com GraphQL, além de muito código com Javascript tentando migrar para typescript.
+- 📣 Descobri uma nova liguagem o dart utilizada pelo framework flutter que é simplesmente sensacional e poderosa. Mau conheço e já considero pakas.
 
 ----
