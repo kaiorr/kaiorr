@@ -10,6 +10,6 @@
 - 💚 Techs: Linux 🐧 Javascript com Typescript implementado com o combo (React, React-Native, Nodejs) with 🐳 docker  with 🐘 sempre robusto e bem aplicado PHP
 - 🎓 Estudando Dart e todo ecossistema relacionado ao flutter.
 ----
- <img align="left" height="180"  src="https://github-readme-stats.vercel.app/api?username=kaiorr&show_icons=true" alt="perfil-kaiorr">
+ <img align="left" width="400" height="170"  src="https://github-readme-stats.vercel.app/api?username=kaiorr&show_icons=true" alt="perfil-kaiorr">
 
-  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiorr&layout=compact&hide=html" alt="languages">
+  <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiorr&layout=compact&hide=html" alt="languages">
