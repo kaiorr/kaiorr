@@ -8,7 +8,7 @@
 
 - 🕵 Trabalhando como analista de plataforma web Totvs
 - 💚 Techs: Linux 🐧 Javascript com Typescript implementado com o combo (React, React-Native, Nodejs) with 🐳 docker  with 🐘 sempre robusto e bem aplicado PHP
-- 🎓 Estudando Dart e todo ecossistema relacionado ao flutter.
+- 🎓 Em constante aprendizado com as melhores práticas clean code e clean architecture.
 ----
  <img align="left" width="400" height="170"  src="https://github-readme-stats.vercel.app/api?username=kaiorr&show_icons=true" alt="perfil-kaiorr">
 
