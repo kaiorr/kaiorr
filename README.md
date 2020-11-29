@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🕵 Trabalhando como analista de plataforma web Totvs
+- 🕵 Fullstack developer javascript systems
 - 💚 Techs: Linux 🐧 Javascript com Typescript implementado com o combo (React, React-Native, Nodejs) with 🐳 docker  with 🐘 sempre robusto e bem aplicado PHP
 - 🎓 Em constante aprendizado com as melhores práticas clean code e clean architecture.
 ----
