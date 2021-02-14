@@ -1,15 +1,47 @@
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-ribeiro-310123150/)](https://www.linkedin.com/in/kaio-ribeiro-310123150/)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kaio54372832)](https://twitter.com/Kaio54372832)
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991780038&text=Oi,%20Tudo%20bem?)](https://api.whatsapp.com/send?phone=5562991780038&text=Oi,%20Tudo%20bem?)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaio.rocharibeiro@gmail.com)](mailto:kaio.rocharibeiro@gmail.com)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaiorr&repo=kaiorr&countColorcountColor)
 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !
 
-### Hi there 👋
+### I'm a 🇧🇷  Full Stack Developer living in 🇧🇷 and working at [Vitto](http://sistemavitto.com.br/).
 
-- 🕵 Fullstack developer javascript systems
-- 💚 Techs: Linux 🐧 Javascript com Typescript implementado com o combo (React, React-Native, Nodejs) with 🐳 docker  with 🐘 sempre robusto e bem aplicado PHP
-- 🎓 Em constante aprendizado com as melhores práticas clean code e clean architecture.
-----
- <img align="left" width="400" height="170"  src="https://github-readme-stats.vercel.app/api?username=kaiorr&show_icons=true" alt="perfil-kaiorr">
+---
+### Languages & Tools 🛠
 
-  <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiorr&layout=compact&hide=html" alt="languages">
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Nodejs](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php&logoColor=blue)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=green)
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+
+### Analytics ⚙️
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kaiorr)
+
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=kaiorr&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaiorr&layout=compact&langs_count=8"/>
+</a>
+</p>
+
+### Let's connect ? 🤝
+
+<p align="left">
+<a href="http://bit.ly/kaiorrlinkedin"><img src="https://img.shields.io/badge/-kaiorr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kaio.rocharibeiro@gmail.com"><img src="https://img.shields.io/badge/-kaio.rocharibeiro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+#### References: [readme-desing](https://github.com/GuillaumeFalourd)
