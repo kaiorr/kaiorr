@@ -9,6 +9,7 @@
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=java)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
