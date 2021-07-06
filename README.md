@@ -2,7 +2,7 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !
 
-### I'm a 🇧🇷  Full Stack Developer living in 🇧🇷 and working at [Vitto](http://sistemavitto.com.br/).
+### I'm a 🇧🇷  Frond end Developer living in 🇧🇷 and working at [Apto](https://apto.vc/).
 
 ---
 ### Languages & Tools 🛠
