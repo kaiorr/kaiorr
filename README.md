@@ -8,6 +8,8 @@
 ### Languages & Tools 🛠
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/Vue-vuejs-green)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
