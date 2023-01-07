@@ -29,7 +29,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
-<!-- ### Analytics ⚙️
+### Analytics ⚙️
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kaiorr)
 
@@ -38,7 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=kaiorr&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaiorr&layout=compact&langs_count=8"/>
 </a>
-</p> -->
+</p>
 
 ### Let's connect ? 🤝
 
