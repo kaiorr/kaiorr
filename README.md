@@ -69,40 +69,6 @@ I operate comfortably across architecture and execution: from system design and 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## Experience Snapshot
-
-### Senior Software Engineer | Futuro Previdencia
-**May 2025 - Present · Brazil**
-
-- Designed distributed integrations with Dataprev using resiliency and retry patterns to support high-availability proposal processing.
-- Led architectural decisions for new Caixa payroll-loan APIs, connecting legacy systems to a cloud-native platform.
-- Delivered an OCR automation solution integrated with AWS Textract that dramatically reduced turnaround time for document analysis.
-- Implemented distributed tracing and CloudWatch monitoring for real-time observability of critical systems.
-
-### Senior Software Engineer | Conta Simples
-**Jul 2023 - Apr 2025 · Sao Paulo, Brazil**
-
-- Designed a serverless microservices architecture for mobile and internet banking products processing millions of daily transactions.
-- Built scalable services with AWS Lambda, API Gateway, DynamoDB, and SQS for low-latency, high-throughput production workloads.
-- Applied event-driven communication and resiliency patterns across asynchronous service interactions.
-- Led DevSecOps, SAST, and automated testing practices with Jest and Cypress while mentoring junior engineers.
-
-### Senior Software Engineer | Apto
-**Mar 2021 - Jun 2023 · Sao Paulo, Brazil**
-
-- Architected and developed a scalable B2B/B2C platform with Java, Spring Boot, Node.js, React, and Next.js.
-- Designed GraphQL APIs and distributed backends with SSO and OAuth-based authentication.
-- Orchestrated microservices with Docker and Kubernetes and implemented CI/CD pipelines for AWS deployments.
-- Improved production observability, contributing to a 40% reduction in MTTR.
-
-### Senior Software Engineer | TOTVS
-**Mar 2018 - Jul 2020 · Goiania, Brazil**
-
-- Built enterprise software for large-scale clients using Java, Spring Boot, React, Node.js, and TypeScript.
-- Strengthened quality practices with JUnit, Jest, Cypress, and OpenAPI/Swagger documentation.
-- Worked across Oracle, MySQL, PostgreSQL, and MongoDB, optimizing queries for performance in distributed systems.
-- Used Docker, Nexus, and GraphQL to support service integration in microservices-based solutions.
-
 ## Education
 
 - Postgraduate Program in Software Architecture, Full Cycle, in progress.
